@@ -1,0 +1,14 @@
+{
+  "name": "billboard-node",
+  "version": "1.0.0",
+  "description": "Node API for Billboard's Hot 100 Charts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekhers/billboard-node.git"
+  },
+  "author": "Rekha Tenjarla",
+  "dependencies": {
+    "cheerio": "*",
+    "request-promise": "*"
+  }
+}
