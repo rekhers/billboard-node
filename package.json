@@ -9,6 +9,7 @@
   "author": "Rekha Tenjarla",
   "dependencies": {
     "cheerio": "*",
+    "request": "^2.88.0",
     "request-promise": "*"
   }
 }
